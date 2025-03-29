@@ -1,0 +1,17 @@
+Se desea modelar una realidad referente a un club deportivo.
+
+El club tiene un conjunto de socios que son vitalicios, de los que interesa su
+antigüedad, y comunes, que se diferencian entre aquellos que pagan anualmente
+y aquellos que pagan mensualmente. De los primeros interesa la cuota que
+pagan, mientras que de los segundos, además de la cuota, interesa la fecha de
+aumento y el porcentaje del mismo. Hay cobradores, de los que se sabe su
+nombre y su zona, que cobran a los socios. De los profesores se conoce su
+nombre y que guían actividades, de las cuales se conoce su nombre. Toda
+actividad es guiada por algún profesor. Existen algunas actividades que se
+realizan dos o más veces por semana, conociéndose el día y hora en que el
+profesor guía cada actividad. El socio no sólo elije la actividad sino que también
+le interesa el profesor que la guía. Como hay que mantener contentos a los socios
+mensuales, interesa conocer qué profesor o profesores prefiere.
+
+Construir el Modelo de Dominio a partir del documento de Visión del problema presentado y
+mostrarlo en uno o más diagramas utilizando UML.
